@@ -83,7 +83,8 @@ public class Context {
      *
      * <p><strong>Code samples</strong></p>
      *
-     * {@codesnippet com.azure.core.util.context.of#map}
+     * <!-- src_embed com.azure.core.util.context.of#map -->
+     * <!-- end com.azure.core.util.context.of#map -->
      *
      * @param keyValues The input key value pairs that will be added to this context.
      * @return Context object containing all the key-value pairs in the input map.
