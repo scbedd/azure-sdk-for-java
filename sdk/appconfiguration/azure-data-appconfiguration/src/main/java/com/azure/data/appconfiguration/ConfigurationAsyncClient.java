@@ -82,7 +82,8 @@ public final class ConfigurationAsyncClient {
      *
      * <p>Add a setting with the key "prodDBConnection", label "westUS" and value "db_connection".</p>
      *
-     * {@codesnippet com.azure.data.appconfiguration.configurationasyncclient.addConfigurationSetting#string-string-string}
+     * <!-- src_embed com.azure.data.appconfiguration.configurationasyncclient.addConfigurationSetting#string-string-string -->
+     * <!-- end com.azure.data.appconfiguration.configurationasyncclient.addConfigurationSetting#string-string-string -->
      *
      * @param key The key of the configuration setting to add.
      * @param label The label of the configuration setting to add. If {@code null} no label will be used.
